@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Manaswini Reddy <sarasanimanaswini@gmail.com>",
+  "author": "Thanmayee Reddy <rthanmayeereddy@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.7"
